@@ -1,3 +1,3 @@
 let db;
 
-const request = indexedDB.open("Budgeted", 1);
+const request = indexedDB.open("budgeted", 1);
