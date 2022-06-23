@@ -19,13 +19,15 @@ Budgeted is a NoSQL MongoDB based social media database platform. It allows user
 
 Budgeted does not require installation. Users can engage with the Budgeted application where it is deployed online at the following URL:
 
-<https://>
+<https://jasonarritt-budgeted.herokuapp.com/>
 
 If the user would like to, they can install Budgeted to their local device through their browser for offline use.
 
 ## Usage
 
 Upon starting/navigating to the Budgeted application, the user is presented with a page that allows them to enter amounts of currency to be add or deducted from their running balance. Upon entering a transaction, the graph chart below will update with the entered information.
+
+![](./public/images/Budgeted_Screenshot.png)
 
 ## License
 
