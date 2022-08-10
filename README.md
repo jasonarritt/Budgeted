@@ -4,7 +4,7 @@
 
 ## Description
 
-Budgeted is a NoSQL MongoDB based social media database platform. It allows users to be added to a database and each user can share thoughts. Users can add other users to their friends list as well as add reactions to thoughts shared by other users.
+Budgeted is a NoSQL IndexedDB based progressive web application that allows users to enter income and expenses online or offline to maintain track of their budget.
 
 ## Table of contents
 
